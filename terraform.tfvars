@@ -1,2 +1,2 @@
-environment =  "prod"
-service = "devdaeun"
+environment = "prod"
+service     = "devdaeun"
